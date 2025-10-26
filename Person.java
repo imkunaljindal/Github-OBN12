@@ -4,4 +4,6 @@ public class Person {
     int age;
     String course;
     String email;
+
+    int marks;
 }
